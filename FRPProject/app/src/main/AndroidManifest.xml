@@ -10,7 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FRPProject">
         <activity
+<<<<<<< HEAD
             android:name=".Topics"
+=======
+            android:name=".Templates"
+            android:exported="false" />
+        <activity
+            android:name=".Courses"
+>>>>>>> Plantillas
             android:exported="false" />
         <activity
             android:name=".Login"
